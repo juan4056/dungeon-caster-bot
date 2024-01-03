@@ -1,0 +1,16 @@
+{
+  "name": "dungeon_caster_bot",
+  "version": "1.0.0",
+  "description": "Discord Bot for recording meets and voices",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/voice": "^0.16.1",
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.3.1"
+  }
+}
